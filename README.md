@@ -5,6 +5,22 @@
 
 
 
+# See also Deep Learning (TensorFlow and keras) with python
+
+Deep learning is a part of Machine learning or rather to say deep learning uses a particular algorithm of machine learning called “Neural Network”. 
+
+**Linear Regression in Tensorflow** 
+[Example](https://github.com/pythonuzgit/elmurodov_tensorflow)
+
+**Neural Network in Tensorflow**
+[Example 1](https://github.com/pythonuzgit/elmurodov_tensorflow) and 
+[Example 2](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
+
+
+
+
+
+
 # See also   Machine learning with Python <h1>
 
 *   **Linear Regresion**  [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)
