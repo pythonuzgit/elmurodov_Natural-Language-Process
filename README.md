@@ -1,5 +1,7 @@
 # Natural-Language-Process
 
+Text classification is one of the important and typical task in supervised machine learning(ML). Assigning categories to documents which can be a web page, library book, media articles, galley etc. has many applications like e.g. spam filtering, email routing, sentiment analysis etc.
+
 
 
 
