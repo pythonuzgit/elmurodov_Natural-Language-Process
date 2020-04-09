@@ -1,5 +1,7 @@
 # Natural-Language-Process
 
+Natural Language Processing (NLP) is exactly what it sounds like, the techniques used to enable computers to understand natural human language, rather than having to interface with people through programming languages Natural Language Processing is necessary for tasks like the classification of word documents or the creation of a chatbot.
+
 Text classification is one of the important and typical task in supervised machine learning(ML). Assigning categories to documents which can be a web page, library book, media articles, galley etc. has many applications like e.g. spam filtering, email routing, sentiment analysis etc.
 
 
