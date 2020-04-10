@@ -4,7 +4,7 @@ Natural Language Processing (NLP) is exactly what it sounds like, the techniques
 
 Text classification is one of the important and typical task in supervised machine learning(ML). Assigning categories to documents which can be a web page, library book, media articles, galley etc. has many applications like e.g. spam filtering, email routing, sentiment analysis etc.
 
-This can be done with the help of Natural Language Processing and different Classification Algorithms like Naive Bayes, SVM and even Neural Networks in Python. 
+
 
 
 
