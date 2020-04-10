@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natura Language Processing
 
 Natural Language Processing (NLP) is exactly what it sounds like, the techniques used to enable computers to understand natural human language, rather than having to interface with people through programming languages Natural Language Processing is necessary for tasks like the classification of word documents or the creation of a chatbot.
 
