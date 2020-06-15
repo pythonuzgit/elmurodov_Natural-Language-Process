@@ -35,7 +35,11 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 * **Text generation using Recuurent neural network with 034.txt** [Example](https://github.com/pythonuzgit/elmurodov_Deep-learning-for-NLP/blob/master/Text%20generation%20using%20Recurrent%20neural%20network%20with%20034.txt.ipynb)
 
-# See also Time Series Forecasting with python
+
+
+# See also Time Series Forecasting 
+
+
 
 * **Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
 
@@ -46,6 +50,11 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 *  **Time series Prediction with LSTM RNN in Python with Keras** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
 
 *  **ARIMA model for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20model%20for%20Time%20Series%20Forecasting.ipynb)
+
+
+*  **ARIMA and LSTM models for Time Series Forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/ARIMA%20and%20LSTM%20models%20for%20Time%20Series%20Forecasting.ipynb)
+
+
 
 
 
